@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunees&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nunees&layout=compact&theme=dark'>
+
+![Snake animation](https://github.com/nunees/nunees/blob/output/github-contribution-grid-snake.svg)
