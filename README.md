@@ -2,9 +2,7 @@
 
   - 🏛️ I'm currently a Science Computer student at UNIP.
   - 🔭 I’m currently open to work.
-  - 🌱 I’m currently learning Java JPA and Hibernate
-  - 💬 Ask me about multiplayer FPS gaming, code and cryptocurrency
-  - 😄 Fun Fact: btw i use Arch
+  - 🌱 I’m currently learning NodeJS and React
 
 
 ## 📈 Github Stats
