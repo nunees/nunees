@@ -6,4 +6,4 @@
 
 ## 📈 Github Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nunees&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nunees&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nunees&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nunees&theme=github_dark)![](https://github-readme-stats.vercel.app/api?username=nunees&show_icons=true&theme=gotham)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nunees&theme=github_dark)
