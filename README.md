@@ -1,5 +1,10 @@
 # Who am I ?
 
+<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+
 ```javascript
 const nunees = {
   name: "Felipe",
@@ -59,6 +64,41 @@ const nunees = {
 <br>
 
 ![Nunees Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nunees&custom_title=Nunees%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+# Environment
+<details open>
+<summary>System</summary>
+
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Graphics Card](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![CPU](https://img.shields.io/badge/Intel-Xeon_E3_1230_v2-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+</details>
+
+
+<details open>
+<summary>IDEs</summary>
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+</details>
+
+<details open>
+<summary>Others</summary>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+</details>
+
+
+
+
 
 <div align="right">
 
