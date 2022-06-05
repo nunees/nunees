@@ -1,8 +1,7 @@
-## Hello World! <img src="https://github.com/nunees/nunees/blob/main/assets/Hi.gif" width="29px">
 
   - 🏛️ I'm currently a Science Computer student at UNIP.
   - 🔭 I’m currently open to work.
-  - 🌱 I’m currently learning NodeJS and React
+  - 🌱 I’m currently learning NodeJS, ReactJS, React Native and Elixir
 
 
 ## 📈 Github Stats
