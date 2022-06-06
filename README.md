@@ -1,9 +1,9 @@
 # Who am I ?
 
 <a href="https://www.linkedin.com/in/felipesilvanunes/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href="#"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="#"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
+<a href="#"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
 ```javascript
 const nunees = {
@@ -108,9 +108,5 @@ const nunees = {
 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
