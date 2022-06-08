@@ -97,16 +97,7 @@ const nunees = {
 </details>
 
 
-
-
-
-<div align="right">
-
-  <a href="#"><p>![visitors](https://visitor-badge.glitch.me/badge?page_id=nunees.id&left_color=green&right_color=red)</p></a>
-
-</div>
-
-
+## Time spent
 <!--START_SECTION:waka-->
 
 ```text
@@ -118,3 +109,9 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="right">
+
+  <a href="#"><p>![visitors](https://visitor-badge.glitch.me/badge?page_id=nunees.id&left_color=green&right_color=red)</p></a>
+
+</div>
