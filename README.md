@@ -10,13 +10,13 @@ const nunees = {
   name: "Felipe",
   username: "nunees",
   location: "Brazil",
-  graduation: "Computer Science student"
+  graduation: "Computer Science student",
   openToWork: true,
-  code: ["Javascript", "ReactJS", "React Native", "Elixir", "Node.js", "Ruby", "Spring"],
+  code: ["Javascript", "ReactJS", "React Native", "Node.js", "Ruby", "Spring"],
   askMeAbout: ["web dev", "tech", "app dev", "technology"],
    technologies: {
         backEnd: {
-            js: ["Node", "Express", "Elixir", "Spring"],
+            js: ["Node", "Express", "Spring"],
         },
         frontend: {
           native: ["html5", "css3", "javascript"],
