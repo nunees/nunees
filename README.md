@@ -1,9 +1,9 @@
 # Who am I ?
 
 <a href="https://www.linkedin.com/in/felipesilvanunes/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="#"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href="#"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
-<a href="#"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+ <a href="mailto:felipesilva3446@gmail.com"> ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<!-- <a href="#"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
+<a href="#"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a> -->
 
 ```javascript
 const nunees = {
@@ -16,20 +16,22 @@ const nunees = {
   askMeAbout: ["web dev", "tech", "app dev", "technology"],
    technologies: {
         backEnd: {
-            js: ["Node", "Express", "Spring"],
+            js: ["Node", "Express"],
+            java: ["jdbc", "spring", "hibernate"],
+            ruby: ["rails"]
         },
         frontend: {
           native: ["html5", "css3", "javascript"],
-          framwork: ["reactjs", "react-native", "ruby"]
+          framwork: ["reactjs", "react-native"]
         }
         mobileApp: {
             native: ["Android Development"],
             framwork: ["react-native"]
             
         },
-        databases: ["mongo", "MySql", "sqlite", "postgresql"],
+        databases: ["mongo", "MySql", "sqlite", "postgresql", "sql server"],
    }
-   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "microservices"],
 }
 ```
 
@@ -53,7 +55,7 @@ const nunees = {
 </div>
 </p>
 
-# My stats
+# Stats
 
 <br/>
 <p align="left">
@@ -70,6 +72,7 @@ const nunees = {
 <summary>System</summary>
 
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0a0dd7?style=for-the-badge&logo=windows&logoColor=white)
   ![Graphics Card](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
   ![CPU](https://img.shields.io/badge/Intel-Xeon_E3_1230_v2-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
