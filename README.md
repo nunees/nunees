@@ -75,9 +75,9 @@ const nunees = {
 </p>
 <br>
 
-<!--
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nunees&custom_title=Nunees%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
--->
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nunees&bg_color=0c1014&color=2aa788&line=259076&point=dc1603&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # Environment
 <details open>
