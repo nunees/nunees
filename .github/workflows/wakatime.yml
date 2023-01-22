@@ -18,3 +18,4 @@ jobs:
           TIME_RANGE: last_7_days
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
+          SHOW_OS: true
