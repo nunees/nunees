@@ -1,11 +1,9 @@
 # Who am I ?
 
 <a href="https://www.linkedin.com/in/felipesilvanunes/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
- <a href="mailto:felipesilva3446@gmail.com"> ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<!-- <a href="#"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
-<a href="#"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a> -->
+ <a href="mailto:felipe_silva_nunes@hotmail.com"> ![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
-```javascript
+<!-- ```javascript
 const nunees = {
   name: "Felipe",
   username: "nunees",
@@ -33,8 +31,9 @@ const nunees = {
    }
    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "microservices"],
 }
-```
+``` -->
 
+<img src="assets/hello.gif" alt="drawing" width="800" />
 
 <p>
 <div align="center">
