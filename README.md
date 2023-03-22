@@ -124,9 +124,9 @@ const nunees = {
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 35 mins
+Total Time: 0 secs
 
-TypeScript   35 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
