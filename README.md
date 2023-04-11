@@ -33,9 +33,9 @@ const nunees = {
 }
 ``` -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/hello.gif" alt="drawing" width="800" />
-</div>
+</div> -->
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
