@@ -66,7 +66,7 @@ const nunees = {
 </div>
 </p>
 
-# Stats
+# My Stats
 
 <br/>
 <p align="left">
