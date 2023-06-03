@@ -124,7 +124,7 @@ const nunees = {
 ## Time spent
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 1 hr 39 mins
 
 TypeScript   1 hr 8 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.97 %
