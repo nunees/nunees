@@ -125,12 +125,9 @@ const nunees = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 mins
+Total Time: 0 secs
 
-XML        16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.90 %
-C#         4 mins          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.18 %
-JSON       4 mins          ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.58 %
-Markdown   4 mins          ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
