@@ -9,6 +9,7 @@ const nunees = {
   location: "Brazil",
   graduation: "Computer Science",
   openToWork: true,
+  status: "Learning Data Structure and Elixir",
   code: ["Javascript", "Typescript", "React Native", "Java", "Ruby"],
   askMeAbout: ["web dev", "tech", "app dev", "technology", "mobile"],
    technologies: {
