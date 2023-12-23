@@ -54,7 +54,7 @@ const nunees = {
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nunees&show_icons=true&theme=gotham&hide_border=true" />
-  <img width="49.5%" src="https://streak-stats.demolab.com?user=nunees&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD1603&ring=DD712D">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false">
   </a>
 </p>
 <br>
