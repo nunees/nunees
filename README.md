@@ -12,7 +12,7 @@
 </p>
 <br>
 
-## Coding time
+## Time spent
 
 <!--START_SECTION:waka-->
 
