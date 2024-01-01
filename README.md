@@ -1,6 +1,6 @@
 # $ whoami
 
-<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
+<a href="https://www.linkedin.com/in/felipesilvanunes/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 # My Stats
 
@@ -13,6 +13,8 @@
 <br>
 
 ## Time spent
+
+[![wakatime](https://wakatime.com/badge/user/91a1b1d1-ad80-4563-91e2-93999f5e4311.svg)](https://wakatime.com/@91a1b1d1-ad80-4563-91e2-93999f5e431)
 
 <!--START_SECTION:waka-->
 
