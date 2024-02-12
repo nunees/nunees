@@ -1,5 +1,5 @@
 <div align="center">
-  ![Hello](assets/b15bd596014d9d9310e59b07b85da550.gif)
+  ![Hello](https://github.com/nunees/nunees/blob/main/assets/b15bd596014d9d9310e59b07b85da550.gif)
 </div>
 
 <br/>
