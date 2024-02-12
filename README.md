@@ -1,5 +1,5 @@
 <div align="center">
-  ![Hello](assets/![alt text](assets/b15bd596014d9d9310e59b07b85da550.gif))
+  ![Hello](assets/b15bd596014d9d9310e59b07b85da550.gif)
 </div>
 
 <br/>
@@ -12,11 +12,11 @@
 <br>
 
 <div align="center">
-  [![nunees.github.io Badge](https://img.shields.io/badge/-nunees.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://nunees.github.io/portfolio/)](https://nunees.github.io/portfolio/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/felipesilvanunes/)](https://www.linkedin.com/in/felipesilvanunes/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&color=14274e&link=https://medium.com/@nuneess3)](https://medium.com/@nunees)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=#)](#)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:felipe_silva_nunes@hotmail.com)](mailto:felipe_silva_nunes@hotmail.com)
+  ![nunees.github.io Badge](https://img.shields.io/badge/-nunees.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://nunees.github.io/portfolio/)(https://nunees.github.io/portfolio/)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/felipesilvanunes/)(https://www.linkedin.com/in/felipesilvanunes/)
+![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&color=14274e&link=https://medium.com/@nuneess3)(https://medium.com/@nunees)
+![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=#)(#)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:felipe_silva_nunes@hotmail.com)(mailto:felipe_silva_nunes@hotmail.com)
 </div>
 
 ## Time spent
