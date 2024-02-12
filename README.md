@@ -1,11 +1,10 @@
 ![Hello](https://github.com/nunees/nunees/blob/main/assets/b15bd596014d9d9310e59b07b85da550.gif)
 
 <p align="center">
-![Counter](https://github-readme-stats.vercel.app/api?username=nunees&show_icons=true&theme=gotham&hide_border=true)
-<p>
+[![Counter](https://github-readme-stats.vercel.app/api?username=nunees&show_icons=true&theme=gotham&hide_border=true)]()
 
-<p align="center">
-![wakatime](https://wakatime.com/badge/user/91a1b1d1-ad80-4563-91e2-93999f5e4311.svg)
+[![wakatime](https://wakatime.com/badge/user/91a1b1d1-ad80-4563-91e2-93999f5e4311.svg)](https://wakatime.com/@91a1b1d1-ad80-4563-91e2-93999f5e431)
+
 </p>
 
 <div align="center">
