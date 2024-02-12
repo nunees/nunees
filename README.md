@@ -5,7 +5,7 @@
 <p>
 
 <p align="center">
-[![wakatime](https://wakatime.com/badge/user/91a1b1d1-ad80-4563-91e2-93999f5e4311.svg)](https://wakatime.com/@91a1b1d1-ad80-4563-91e2-93999f5e431)
+![wakatime](https://wakatime.com/badge/user/91a1b1d1-ad80-4563-91e2-93999f5e4311.svg)
 </p>
 
 <div align="center">
