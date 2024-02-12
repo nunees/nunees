@@ -1,6 +1,4 @@
-<div align="center">
-  ![Hello](https://github.com/nunees/nunees/blob/main/assets/b15bd596014d9d9310e59b07b85da550.gif)
-</div>
+![Hello](https://github.com/nunees/nunees/blob/main/assets/b15bd596014d9d9310e59b07b85da550.gif)
 
 <br/>
 <div align="center">
