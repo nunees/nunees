@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![nunees.github.io Badge](https://img.shields.io/badge/-nunees.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://nunees.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
+[![nunees.github.io Badge](https://img.shields.io/badge/-nunees.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://nunees.github.io/portfolio/)](https://nunees.github.io/portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/felipesilvanunes/)](https://www.linkedin.com/in/felipesilvanunes/)
 
 </div>
