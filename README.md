@@ -17,10 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 mins
+Total Time: 0 secs
 
-Elixir   18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.13 %
-Other    15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
