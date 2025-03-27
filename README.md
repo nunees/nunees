@@ -17,10 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 mins
+Total Time: 0 secs
 
-PHP              13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.26 %
-Blade Template   2 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
