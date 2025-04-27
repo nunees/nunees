@@ -17,10 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 mins
+Total Time: 0 secs
 
-JSON   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.52 %
-PHP    9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
